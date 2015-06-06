@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/cpryby/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/cpryby/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/classes-ec7fee9c7034f7b632230854de592ebe32e4bf96.jar" />
+    </item>
+    <item
+        jar="/Users/cpryby/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/cpryby/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-cf3801552f481d58edc4649b9dc68132284c5d22.jar" />
+    </item>
+    <item
+        jar="/Users/cpryby/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/cpryby/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/classes-392e6e029ec756ccef77c9c63462f6657e73fb24.jar" />
+    </item>
+    <item
+        jar="/Users/cpryby/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/cpryby/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-c2be7f2c5dfa2deb627734e6d0e5a25f9917ea03.jar" />
+    </item>
+
+</items>
